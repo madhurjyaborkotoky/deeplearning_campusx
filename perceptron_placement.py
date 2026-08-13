@@ -1,4 +1,7 @@
-print('hello world')
+
+#Training a perceptron model on the placement dataset and plotting the decision regions of the model.
+
+
 
 #importing libraries
 from pprint import pp
@@ -35,5 +38,7 @@ p.fit(x, y)
 print(p.coef_)
 print(p.intercept_)
 
+#plotting the decision regions of the perceptron model
 plot_decision_regions(x.values, y.values, clf=p)
 plt.savefig("images/decision_regions.png", dpi=300, bbox_inches="tight")
+
