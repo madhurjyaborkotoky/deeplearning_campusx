@@ -15,7 +15,7 @@
 
 ## 👋 About This Repository
 
-Welcome to my **Deep Learning learning repository**.
+Welcome to my **Deep Learning Learning Repository**.
 
 This repository contains the code, experiments, implementations, and practice work that I build while learning Deep Learning through the **100 Days of Deep Learning** playlist by **CampusX**.
 
